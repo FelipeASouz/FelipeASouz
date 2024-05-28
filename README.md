@@ -1,5 +1,5 @@
-Boas vindas à meu perfil!
-Meu nome é Felipe Alves
+### Boas vindas à meu perfil!
+Meu nome é **Felipe Alves**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
